@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MADD_Lab_03</string>
+    <string name="enter_number_1">Enter Number 1</string>
+    <string name="enter_number_2">Enter Number 2</string>
+    <string name="Addition">+</string>
+    <string name="Substraction">-</string>
+    <string name="Multiplication">×</string>
+    <string name="Division">÷</string>
 </resources>
